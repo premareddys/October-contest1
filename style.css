@@ -13,7 +13,8 @@
     padding-left: 150px;
     padding-right:180px;
 }
-#head>p{
+#head>a{
+    padding-top:10px;
     color:white;
 }
 
